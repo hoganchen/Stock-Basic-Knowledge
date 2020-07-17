@@ -40,7 +40,7 @@
 <https://wiki.mbalib.com/wiki/%E5%86%85%E7%9B%98%E5%92%8C%E5%A4%96%E7%9B%98>  
 所谓内盘就是股票在买入价成交，成交价为申买价，说明抛盘比较踊跃；外盘就是股票在卖出价成交，成交价为申卖价，说明买盘比较积极.
 
-##### <li> 市净率
+##### <li> 市净率(Price to book ratio，即 P/B)
 <https://wiki.mbalib.com/wiki/%E5%B8%82%E5%87%80%E7%8E%87>  
 市净率指的是每股股价与每股净资产的比率。
 
@@ -54,7 +54,7 @@
 
 通过市净率定价法估计股票发行价格时，首先应根据审核后的净资产计算出发行人的每股净资产；然后，根据二级市场的平均市净率、发行人的行业情况、发行人的经营状况及其净资产收益率等拟定发行市净率；最后，依据发行市净率与每股净资产的乘积决定发行价。
 
-##### <li> 市盈率
+##### <li> 市盈率(Price to Earnings ratio，简称 P/E ratio)
 <https://wiki.mbalib.com/wiki/%E5%B8%82%E7%9B%88%E7%8E%87>  
 本益比（Price to Earnings ratio）也称“股价收益比率”或“市价盈利比率（简称市盈率）”
 
@@ -70,7 +70,7 @@
 
 每股盈利一般根据过去四个季度的盈利计算（现行市盈率），但有时也根据未来四个季度的盈利预测计算（预测市盈率）。第三个方法是将上两个季度的实际盈利加上未来两个季度的预测盈利，根据这个总和计算市盈率。 
 
-##### <li> 资产收益率
+##### <li> 资产收益率(Return On Assets，ROA)
 <https://wiki.mbalib.com/wiki/%E8%B5%84%E4%BA%A7%E6%94%B6%E7%9B%8A%E7%8E%87>  
 资产收益率，也叫资产回报率（ROA），它是用来衡量每单位资产创造多少净利润的指标。
 
@@ -88,7 +88,7 @@
 
 股东权益收益率(ROE)=资产收益率(ROA)×杠杆比率(L)
 
-##### <li> 净资产收益率
+##### <li> 净资产收益率(Rate of Return on Common Stockholders' Equity，ROE/Profit Margin on Net Assets)
 <https://wiki.mbalib.com/wiki/%E8%82%A1%E4%B8%9C%E6%9D%83%E7%9B%8A%E6%94%B6%E7%9B%8A%E7%8E%87>  
 净资产收益率（Rate of Return on Common Stockholders' Equity，ROE/Profit Margin on Net Assets）
 
